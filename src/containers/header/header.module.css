@@ -1,0 +1,12 @@
+.header {
+    background-color: #1e1e1e;
+    color: antiquewhite;
+}
+
+.title {
+    font-size: 1.3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
